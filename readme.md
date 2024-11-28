@@ -9,11 +9,11 @@
     <img src="./assets/img/Tim_Hortons_Logo.png" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Coffee Shop</h3>
+  <h3 align="center">TIM HORTONS</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  There is an incredible attention to detail through the different steps along the way in the journey from the bean to a cup of Tim Hortons coffee.
 </div>
 
 <br />
