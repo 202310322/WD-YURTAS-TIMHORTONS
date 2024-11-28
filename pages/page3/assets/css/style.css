@@ -2,8 +2,8 @@ body {
     font-family: "Poppins", sans-serif;
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Full viewport height */
-    margin: 0; /* Remove default body margin */
+    min-height: 100vh;
+    margin: 0;
     font-family: "Poppins", sans-serif;
   }
   .carousel-caption {
@@ -16,17 +16,31 @@ body {
   
   }
   .container {
-    flex: 1; /* Pushes the footer to the bottom */
+    flex: 1;
   }
   footer {
-    background-color: #C8102E; /* Tim Hortons Red */
+    background-color: #C8102E;
     color: white;
-    padding: 60px 0; /* Adjust padding as needed */
+    padding: 60px 0;
     flex: 1;
   }
   .footer-content {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 30px; /* Add spacing between elements */
+    gap: 30px;
   }
+.containerlast{
+    color: #C8102E;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.con {
+    color: black;
+    max-width: 800px; 
+    margin: 3cqmax; 
+    text-align: left; 
+    padding-left: 1px;
+}
