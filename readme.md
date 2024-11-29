@@ -62,10 +62,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- The project is about creating a Coffee Shop website using HTML, CSS & JavaScript.
+- To learn to create a website, and to be familiarize with CSS, HTML & JavaScript.
+- The key components are the navigation bar, pages, footer and the product overview.
+- The technologies I used for this project are are HTML, CSS, Bootstrap, JavaScript, & Google Fonts. HTML defines the structure of the website, CSS & Bootstrap adds styling and responsiveness to enhance the user experience, Google Fonts & Images enhances aesthetics with modern typography and visuals and JavaScript powers interactive features like the carousel and collapsible navigation.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
