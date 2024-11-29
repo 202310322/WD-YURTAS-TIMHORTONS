@@ -9,11 +9,11 @@
     <img src="./assets/img/Tim_Hortons_Logo.png" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Coffee Shop</h3>
+  <h3 align="center">TIM HORTONS</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  There is an incredible attention to detail through the different steps along the way in the journey from the bean to a cup of Tim Hortons coffee.
 </div>
 
 <br />
@@ -22,7 +22,7 @@
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](https://wakatime.com/badge/user/bbd4ba55-f497-4f38-830d-23ecf9cfee5c/project/62a752ad-b39d-4c95-b248-c35e69cf5577.svg)](https://wakatime.com/badge/user/bbd4ba55-f497-4f38-830d-23ecf9cfee5c/project/62a752ad-b39d-4c95-b248-c35e69cf5577)
 
 ---
 
